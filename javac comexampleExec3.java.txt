@@ -1,0 +1,2 @@
+javac com\example\Exec3.java
+java -cp . com.example.Exec3
