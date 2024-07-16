@@ -1,5 +1,4 @@
-package D:/Public/SRC/J/mediacerta.java
-public class MediaCerta {
+public class boletim33 {
     public static void main(String[] args) {
          // declaração das medias do Tiririca
         String nome1 ="Tiririca";

@@ -1,7 +1,13 @@
+
+
 public class AulaP {
     public static void main(String[] args) {
-        int a = 5;
-        int b = 10;
-        System.out.println("Soma: " + (a + b));
+        byte numero = 127;
+        short numeroX = 2342;
+        int numeroY = 1234;
+
+        System.out.println(numero);
+        System.out.println(numeroX);
+        System.out.println(numeroY);
     }
 }

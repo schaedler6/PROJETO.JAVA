@@ -1,4 +1,4 @@
-public class Nota {
+public class Notas {
     public static void main(String[] args) {
         String nomeJaspion = "Jaspion";
         String nomeTiririca = "Tiririca";
